@@ -60,10 +60,14 @@ class AlexaDiscovery extends AlexaDirective {
       }
 
       items.forEach((item) => {
-        // Set endpoint friendly name using item label or first synonyms metadata value
-        const friendlyName = item.label ||
-          item.metadata && item.metadata.synonyms && item.metadata.synonyms.value.split(',').shift();
-        // Skip item if friendly name empty or if already part of a group
+        // Only add devices specifically taged for Alexa
+        if (! item.metadata || ! item.metadata.alexa ) { return; }
+
+        const friendlyName = (item.metadata.alexa.config && item.metadata.alexa.config.friendlyNames && item.metadata.alexa.config.friendlyNames.split(',').shift()) || 
+            item.label || 
+            item.metadata.synonyms && item.metadata.synonyms.value.split(',').shift();
+            
+            // Skip item if friendly name empty or if already part of a group
         if (!friendlyName || groupItems.includes(item.name)) {
           return;
         }
