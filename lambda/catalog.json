@@ -1,0 +1,1924 @@
+{
+  "@Setting.Angle": [
+    {
+      "text": "زاوية",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Winkel",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Schiefheit",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Angle",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Angle",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Angle",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Angle",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Angle",
+      "locale": "en-US"
+    },
+    {
+      "text": "Ángulo",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Ángulo",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Ángulo",
+      "locale": "es-US"
+    },
+    {
+      "text": "Angle",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Angle",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "कोण",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Angolo",
+      "locale": "it-IT"
+    },
+    {
+      "text": "角度",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Ângulo",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.BatteryLevel": [
+    {
+      "text": "مستوى البطارية",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Batterieladung",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Battery Level",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Battery Level",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Battery Level",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Battery Level",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Battery Level",
+      "locale": "en-US"
+    },
+    {
+      "text": "Nivel de Batería",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Nivel de Batería",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Nivel de Batería",
+      "locale": "es-US"
+    },
+    {
+      "text": "Niveau de batterie",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Niveau de batterie",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "बैटरी का स्तर",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Livello Batteria",
+      "locale": "it-IT"
+    },
+    {
+      "text": "バッテリーレベル",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Nível da bateria",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Clean": [
+    {
+      "text": "لينظف",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Sauber",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Clean",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Clean",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Clean",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Clean",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Clean",
+      "locale": "en-US"
+    },
+    {
+      "text": "Limpio",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Limpio",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Limpio",
+      "locale": "es-US"
+    },
+    {
+      "text": "Nettoyage",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Nettoyage",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "स्वच्छ",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Pulito",
+      "locale": "it-IT"
+    },
+    {
+      "text": "掃除",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Limpo",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Dock": [
+    {
+      "text": "بتر ذيلا",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Dock",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Dock",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Dock",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Dock",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Dock",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Dock",
+      "locale": "en-US"
+    },
+    {
+      "text": "Dock",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Dock",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Dock",
+      "locale": "es-US"
+    },
+    {
+      "text": "Dock",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Dock",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "गोदी",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Dock",
+      "locale": "it-IT"
+    },
+    {
+      "text": "ドック",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Dock",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Forward": [
+    {
+      "text": "كان ألاول",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Vorwärts",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Forward",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Forward",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Forward",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Forward",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Forward",
+      "locale": "en-US"
+    },
+    {
+      "text": "Adelante",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Adelante",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Adelante",
+      "locale": "es-US"
+    },
+    {
+      "text": "Avant",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Avant",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "आगे",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Avanti",
+      "locale": "it-IT"
+    },
+    {
+      "text": "前方",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Adiante",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Humidity": [
+    {
+      "text": "الرطوبة",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Luftfeuchtigkeit",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Feuchtigkeit",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Humidity",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Humidity",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Humidity",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Humidity",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Humidity",
+      "locale": "en-US"
+    },
+    {
+      "text": "Humedad",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Humedad",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Humedad",
+      "locale": "es-US"
+    },
+    {
+      "text": "Humidité",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Humidité",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "आर्द्रता",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Umidità",
+      "locale": "it-IT"
+    },
+    {
+      "text": "湿度",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Umidade",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Input": [
+    {
+      "text": "مساهمة",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Eingang",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Input",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Input",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Input",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Input",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Input",
+      "locale": "en-US"
+    },
+    {
+      "text": "Entrada",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Entrada",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Entrada",
+      "locale": "es-US"
+    },
+    {
+      "text": "Entrée",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Entrée",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "इनपुट",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Ingresso",
+      "locale": "it-IT"
+    },
+    {
+      "text": "入力",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Entrada",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Position": [
+    {
+      "text": "الموضع",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Position",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Position",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Position",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Position",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Position",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Position",
+      "locale": "en-US"
+    },
+    {
+      "text": "Posición",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Posición",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Posición",
+      "locale": "es-US"
+    },
+    {
+      "text": "Position",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Position",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "पोजीशन",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Posizione",
+      "locale": "it-IT"
+    },
+    {
+      "text": "ポジション",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Posição",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.RangeValue": [
+    {
+      "text": "قيمة النطاق",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Bereichswert",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Range Value",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Range Value",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Range Value",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Range Value",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Range Value",
+      "locale": "en-US"
+    },
+    {
+      "text": "Valor de Rango",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Valor de Rango",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Valor de Rango",
+      "locale": "es-US"
+    },
+    {
+      "text": "Plage de valeur",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Plage de valeur",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "रेंज वैल्यू",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Valore Intervallo",
+      "locale": "it-IT"
+    },
+    {
+      "text": "範囲値",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Valor do Intervalo",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Reverse": [
+    {
+      "text": "عكس",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Umkehren",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Reverse",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Reverse",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Reverse",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Reverse",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Reverse",
+      "locale": "en-US"
+    },
+    {
+      "text": "Inverso",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Inverso",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Inverso",
+      "locale": "es-US"
+    },
+    {
+      "text": "Inverse",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Inverse",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "उल्टा",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Inverso",
+      "locale": "it-IT"
+    },
+    {
+      "text": "逆",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Reverso",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Speed": [
+    {
+      "text": "سرعة",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Geschwindigkeit",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Speed",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Speed",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Speed",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Speed",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Speed",
+      "locale": "en-US"
+    },
+    {
+      "text": "Velocidad",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Velocidad",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Velocidad",
+      "locale": "es-US"
+    },
+    {
+      "text": "Vitesse",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Vitesse",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "स्पीड",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Velocità",
+      "locale": "it-IT"
+    },
+    {
+      "text": "速度",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Velocidade",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Spot": [
+    {
+      "text": "بقعة",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Spot",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Spot",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Spot",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Spot",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Spot",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Spot",
+      "locale": "en-US"
+    },
+    {
+      "text": "Spot",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Spot",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Spot",
+      "locale": "es-US"
+    },
+    {
+      "text": "Spot",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Spot",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "चित्ती",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Spot",
+      "locale": "it-IT"
+    },
+    {
+      "text": "スポット",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Spot",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.TargetTemperature": [
+    {
+      "text": "درجة الحرارة المستهدفة",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Zieltemperatur",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Target Temperature",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Target Temperature",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Target Temperature",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Target Temperature",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Target Temperature",
+      "locale": "en-US"
+    },
+    {
+      "text": "Temperatura objetivo",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Temperatura objetivo",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Temperatura objetivo",
+      "locale": "es-US"
+    },
+    {
+      "text": "Température cible",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Température cible",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "लक्ष्य तापमान",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Temperatura Obiettivo",
+      "locale": "it-IT"
+    },
+    {
+      "text": "目標温度",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Temperatura alvo",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.Tilt": [
+    {
+      "text": "الميل",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Neigung",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Tilt",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Tilt",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Tilt",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Tilt",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Tilt",
+      "locale": "en-US"
+    },
+    {
+      "text": "Inclinación",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Inclinación",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Inclinación",
+      "locale": "es-US"
+    },
+    {
+      "text": "Inclinaison",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Inclinaison",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "झुकाव",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Inclinazione",
+      "locale": "it-IT"
+    },
+    {
+      "text": "傾ける",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Inclinação",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Setting.ToggleState": [
+    {
+      "text": "تبديل الحالة",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Schaltzustand",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Toggle State",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Toggle State",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Toggle State",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Toggle State",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Toggle State",
+      "locale": "en-US"
+    },
+    {
+      "text": "Alternar Estado",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Alternar Estado",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Alternar Estado",
+      "locale": "es-US"
+    },
+    {
+      "text": "État de bascule",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "État de bascule",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "राज्य टॉगल करें",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Alterna Stato",
+      "locale": "it-IT"
+    },
+    {
+      "text": "トグル状態",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Alternar Estado",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Decrease": [
+    {
+      "text": "تناقص",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Verringern",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Decrease",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Decrease",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Decrease",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Decrease",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Decrease",
+      "locale": "en-US"
+    },
+    {
+      "text": "Disminución",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Disminución",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Disminución",
+      "locale": "es-US"
+    },
+    {
+      "text": "Diminue",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Diminue",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "घटती",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Diminuire",
+      "locale": "it-IT"
+    },
+    {
+      "text": "減少",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Diminuição",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Default": [
+    {
+      "text": "الافتراضي",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Standard",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Default",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Default",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Default",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Default",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Default",
+      "locale": "en-US"
+    },
+    {
+      "text": "Predeterminado",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Predeterminado",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Predeterminado",
+      "locale": "es-US"
+    },
+    {
+      "text": "Défaut",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Défaut",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "डिफॉल्ट",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Predefinito",
+      "locale": "it-IT"
+    },
+    {
+      "text": "ディフォルト",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Predefinição",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Down": [
+    {
+      "text": "أسفل",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Runter",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Down",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Down",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Down",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Down",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Down",
+      "locale": "en-US"
+    },
+    {
+      "text": "Abajo",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Abajo",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Abajo",
+      "locale": "es-US"
+    },
+    {
+      "text": "Bas",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Bas",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "नीचे",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Giù",
+      "locale": "it-IT"
+    },
+    {
+      "text": "下",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Baixo",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Increase": [
+    {
+      "text": "تزايد",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Erhöhung",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Increase",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Increase",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Increase",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Increase",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Increase",
+      "locale": "en-US"
+    },
+    {
+      "text": "Incremento",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Incremento",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Incremento",
+      "locale": "es-US"
+    },
+    {
+      "text": "Augmente",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Augmente",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "बढ़ाना",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Aumento",
+      "locale": "it-IT"
+    },
+    {
+      "text": "増加",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Aumento",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Left": [
+    {
+      "text": "اليسار",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Links",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Left",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Left",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Left",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Left",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Left",
+      "locale": "en-US"
+    },
+    {
+      "text": "Izquierdo",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Izquierdo",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Izquierdo",
+      "locale": "es-US"
+    },
+    {
+      "text": "Gauche",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Gauche",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "बाएं",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Sinistra",
+      "locale": "it-IT"
+    },
+    {
+      "text": "左",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Esquerdo",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Move": [
+    {
+      "text": "تنقل",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Bewegung",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Move",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Move",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Move",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Move",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Move",
+      "locale": "en-US"
+    },
+    {
+      "text": "Mover",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Mover",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Mover",
+      "locale": "es-US"
+    },
+    {
+      "text": "Avance",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Avance",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "मूव",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Mossa",
+      "locale": "it-IT"
+    },
+    {
+      "text": "移動",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Mover",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Off": [
+    {
+      "text": "طافئ",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Aus",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Off",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Off",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Off",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Off",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Off",
+      "locale": "en-US"
+    },
+    {
+      "text": "Apagado",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Apagado",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Apagado",
+      "locale": "es-US"
+    },
+    {
+      "text": "Désactivé",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Désactivé",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "ऑफ",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Spento",
+      "locale": "it-IT"
+    },
+    {
+      "text": "オフ",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Desligado",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.On": [
+    {
+      "text": "على",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Auf",
+      "locale": "de-DE"
+    },
+    {
+      "text": "On",
+      "locale": "en-AU"
+    },
+    {
+      "text": "On",
+      "locale": "en-CA"
+    },
+    {
+      "text": "On",
+      "locale": "en-GB"
+    },
+    {
+      "text": "On",
+      "locale": "en-IN"
+    },
+    {
+      "text": "On",
+      "locale": "en-US"
+    },
+    {
+      "text": "Encendido",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Encendido",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Encendido",
+      "locale": "es-US"
+    },
+    {
+      "text": "Activé",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Activé",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "ऑन",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Acceso",
+      "locale": "it-IT"
+    },
+    {
+      "text": "オン",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Ligado",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Pause": [
+    {
+      "text": "إيقاف مؤقت",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Pause",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Pause",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Pause",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Pause",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Pause",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Pause",
+      "locale": "en-US"
+    },
+    {
+      "text": "Pausa",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Pausa",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Pausa",
+      "locale": "es-US"
+    },
+    {
+      "text": "Pause",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Pause",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "विराम",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Pausa",
+      "locale": "it-IT"
+    },
+    {
+      "text": "一時停止",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Pausa",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Resume": [
+    {
+      "text": "استأنف",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Lebenslauf",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Resume",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Resume",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Resume",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Resume",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Resume",
+      "locale": "en-US"
+    },
+    {
+      "text": "Reanudar",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Reanudar",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Reanudar",
+      "locale": "es-US"
+    },
+    {
+      "text": "Redémarre",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Redémarre",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "फिर से शुरू करें",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Riprendere",
+      "locale": "it-IT"
+    },
+    {
+      "text": "再開",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Retomar",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Right": [
+    {
+      "text": "يمين",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Rechte",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Right",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Right",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Right",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Right",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Right",
+      "locale": "en-US"
+    },
+    {
+      "text": "Derecho",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Derecho",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Derecho",
+      "locale": "es-US"
+    },
+    {
+      "text": "Droite",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Droite",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "दायें",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Destro",
+      "locale": "it-IT"
+    },
+    {
+      "text": "右",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Direita",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Start": [
+    {
+      "text": "ابدأ",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Start",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Start",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Start",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Start",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Start",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Start",
+      "locale": "en-US"
+    },
+    {
+      "text": "Empiezo",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Empiezo",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Empiezo",
+      "locale": "es-US"
+    },
+    {
+      "text": "Démarre",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Démarre",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "स्टार्ट",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Avvio",
+      "locale": "it-IT"
+    },
+    {
+      "text": "開始",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Início",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Stop": [
+    {
+      "text": "توقف",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Halt",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Stop",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Stop",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Stop",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Stop",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Stop",
+      "locale": "en-US"
+    },
+    {
+      "text": "Parada",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Parada",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Parada",
+      "locale": "es-US"
+    },
+    {
+      "text": "Arrêt",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Arrêt",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "रोके",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Fermare",
+      "locale": "it-IT"
+    },
+    {
+      "text": "ストップ",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Pare",
+      "locale": "pt-BR"
+    }
+  ],
+  "@Value.Up": [
+    {
+      "text": "فوق",
+      "locale": "ar-SA"
+    },
+    {
+      "text": "Hoch",
+      "locale": "de-DE"
+    },
+    {
+      "text": "Up",
+      "locale": "en-AU"
+    },
+    {
+      "text": "Up",
+      "locale": "en-CA"
+    },
+    {
+      "text": "Up",
+      "locale": "en-GB"
+    },
+    {
+      "text": "Up",
+      "locale": "en-IN"
+    },
+    {
+      "text": "Up",
+      "locale": "en-US"
+    },
+    {
+      "text": "Arriba",
+      "locale": "es-ES"
+    },
+    {
+      "text": "Arriba",
+      "locale": "es-MX"
+    },
+    {
+      "text": "Arriba",
+      "locale": "es-US"
+    },
+    {
+      "text": "Haut",
+      "locale": "fr-CA"
+    },
+    {
+      "text": "Haut",
+      "locale": "fr-FR"
+    },
+    {
+      "text": "अप",
+      "locale": "hi-IN"
+    },
+    {
+      "text": "Alto",
+      "locale": "it-IT"
+    },
+    {
+      "text": "アップ",
+      "locale": "ja-JP"
+    },
+    {
+      "text": "Acima",
+      "locale": "pt-BR"
+    }
+  ]
+}
